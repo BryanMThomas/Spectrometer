@@ -9,3 +9,6 @@ Original repo located at https://github.com/tonbut/RPiSpectrometer
 please visit repo for additional information as well as documentation. 
 
 Slight modifications were made for specific application. View report for application. 
+
+Command line python3 spectro_PI.py [FileName] [ShutterTime]
+Ex python3 spectro_PI.py run1a 100000
