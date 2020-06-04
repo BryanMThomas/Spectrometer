@@ -1,5 +1,4 @@
-# CSE499_Spectrometer
-CSE 499 Individualized Instruction  Fall 2018 Project
+# Spectrometer
 
 Report: https://docs.google.com/document/d/1S0oRadvwxdbe-D8cBv5rm-_etZ1tg5DNxi9PdsZV4qg/edit?usp=sharing
 
